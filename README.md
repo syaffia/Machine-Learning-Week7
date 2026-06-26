@@ -1,3 +1,1 @@
-Machine Learning Week 7 Exercise
-Name: Atiqah Syaffia binti Mohd Fazeli
-ID: 24007397
+Atiqah Syaffia binti Mohd Fazeli - 24007397
